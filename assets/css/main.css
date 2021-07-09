@@ -4042,3 +4042,9 @@ body.is-menu-visible #menu .inner {
 .green {
   color: green;
 }
+.bg-color-yellow {
+  background-color: yellow;
+}
+.bg-color-green {
+  background-color: greenyellow;
+}
