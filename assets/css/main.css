@@ -4048,3 +4048,6 @@ body.is-menu-visible #menu .inner {
 .bg-color-green {
   background-color: greenyellow;
 }
+.bg-enso {
+  background-image: url("/images/Enso.png");
+}
